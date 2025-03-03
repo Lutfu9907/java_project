@@ -2,7 +2,7 @@ package Inheritance;
 
 class Animal {
     
-    String name = "Alex";
+    protected String name = "Alex";
 
     public void eat() {
         System.out.println("Hayvanlar yemek yer");
