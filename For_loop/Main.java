@@ -1,4 +1,4 @@
-package For_dongusu;
+package For_loop;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package If_yontemi;
+package If_else;
 
 import java.util.Scanner;
 

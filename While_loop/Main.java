@@ -1,4 +1,4 @@
-package While_dongusu;
+package While_loop;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Fonksiyonlar;
+package Functions_;
 
 public class Main {
 

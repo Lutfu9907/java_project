@@ -1,4 +1,4 @@
-package do_while_dongusu;
+package Do_while;
 
 import java.util.Scanner;
 

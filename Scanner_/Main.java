@@ -1,4 +1,4 @@
-package Deger_Alma;
+package Scanner_;
 
 import java.util.Scanner;
 
