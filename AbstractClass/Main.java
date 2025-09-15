@@ -6,7 +6,6 @@ abstract class Animal {
     public void eat(){
         System.out.println("hayvanlar yemek yer");
     }
-    
 }
 
 class Dog extends Animal{

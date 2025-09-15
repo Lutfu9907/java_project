@@ -10,13 +10,13 @@ class Dog extends Animal{
     @Override
     public void makeSound(){
         super.makeSound();
-        System.out.println("köpekler havlar");
+        System.out.println( name + ": Hav Hav");
     }
 }
 class Cat extends Animal{
     @Override
     public void makeSound(){
-        System.out.println("kediler miyavlar");
+        System.out.println(name + ": Miyav Miyav");
     }
 }
 
