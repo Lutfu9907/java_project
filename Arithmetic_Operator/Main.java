@@ -15,5 +15,11 @@ public class Main {
 
         //Bu iki kod bloğundaki fark c++ ve ++c nin işlemsel olarak sırasıdır.
         // c++ olduğu zaman çıktı 
+        // c=11
+        // sonuc=10
+
+        // ++c olduğu zaman çıktı
+        // c=11
+        // sonuc=11
     }
 }
