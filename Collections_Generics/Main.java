@@ -69,6 +69,8 @@ public class Main {
 // Key → benzersiz olmalı (tekrar edemez).
 // Value → aynı olabilir (tekrar edebilir).
 // Index yoktur, bu yüzden for (Integer key : map.keySet()) gibi dolaşırız.
+// İndex yoktur demek şu anlama gelir: ekleme sırasına göre saklanmaz.// Key ile erişilir.
+// Yani for (int i = 0; i < map.size(); i++) gibi dolaşılamaz.
 
 // HashMap<Integer, String> ogrenciler = new HashMap<>();
 // ogrenciler.put(1, "Ali");

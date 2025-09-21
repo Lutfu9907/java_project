@@ -54,7 +54,7 @@ public class Main {
             System.out.println("Enter student id:");
             int studentId = scanner.nextInt();
             scanner.nextLine();
-
+            
             try {
                 for (Student student : students) {
                     if (student.getStudentId() == studentId) {
@@ -62,7 +62,6 @@ public class Main {
                                 "Bu ID zaten mevcut. " + student.getName());
                     }
                 }
-
                 if (grade < 50) {
                     throw new IllegalArgumentException("Not 50'den küçük olamaz.");
                 }
